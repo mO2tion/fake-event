@@ -1,0 +1,24 @@
+{
+  "event": [
+    {
+      "id": 1,
+      "chain": "Motosumo",
+      "center": "HQ",
+      "center_id": 123,
+      "kcal": 8152,
+      "distance": 128,
+      "hours": 17463,
+      "n_users": 32
+    },
+    {
+      "id": 2,
+      "chain": "Motosumo",
+      "center": "Dark Side of The Moon",
+      "center_id": 321,
+      "kcal": 9932,
+      "distance": 141234,
+      "hours": 5642,
+      "n_users": 135
+    }
+  ]
+}
