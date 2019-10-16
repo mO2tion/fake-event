@@ -1,5 +1,5 @@
 {
-  "event": [
+  "data": [
     {
       "id": 1,
       "chain": "Motosumo",
@@ -20,5 +20,6 @@
       "hours": 5642,
       "n_users": 135
     }
-  ]
+  ],
+  "has_ended": false
 }
